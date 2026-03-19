@@ -43,7 +43,7 @@ The only thing that was ever missing — was someone willing to learn to listen.
 
 | # | Title | Notebook | Key Concepts | Data Source | Video |
 |---|-------|----------|--------------|-------------|-------|
-| 01 | **First Light** — Rendering the Andromeda Galaxy from raw photon data | [📓 Open](./episode-01-first-light.ipynb) | FITS files, DSS survey, contrast stretching, astropy | NASA SkyView / DSS | [▶️ Watch](https://www.youtube.com/watch?v=hcaHBAlQIV0) |
+| 01 | **First Light** — Rendering the Andromeda Galaxy from raw photon data | [📓 Open](./episode-01-first-light/render_andromeda_from_nasa_data.ipynb) | FITS files, DSS survey, contrast stretching, astropy | NASA SkyView / DSS | [▶️ Watch](https://www.youtube.com/watch?v=hcaHBAlQIV0) |
 | 02 | **Three Filters** — Building a Pillars of Creation style image | *Coming soon* | Multi-band imaging, Hubble filters, false color | HST Archive |
 | 03 | **Counting Stars** — Automated source detection in a deep field | *Coming soon* | Photutils, aperture photometry, source catalogs | NASA SkyView |
 | 04 | **How Bright?** — Measuring stellar brightness from raw data | *Coming soon* | Photometry, magnitude scale, flux calibration | SDSS |
