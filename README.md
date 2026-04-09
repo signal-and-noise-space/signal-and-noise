@@ -45,7 +45,7 @@ The only thing that was ever missing — was someone willing to learn to listen.
 |---|-------|----------|--------------|-------------|-------|
 | 01 | **First Light** — Rendering the Andromeda Galaxy from raw photon data | [📓 Open](./episode-01-first-light/render_andromeda_from_nasa_data.ipynb) | FITS files, DSS survey, contrast stretching, astropy | NASA SkyView / DSS | [▶️ Watch](https://www.youtube.com/watch?v=hcaHBAlQIV0) |
 | 02 | **Three Filters** — Building a Pillars of Creation style image | *Coming soon* | Multi-band imaging, Hubble filters, false color | HST Archive |
-| 03 | **Transit** — Hunting for an exoplanet in Kepler data | [📓 Open](./episode-01-first-light/render_andromeda_from_nasa_data.ipynb) | Kepler pipeline, BLS algorithm, period folding | NASA Kepler | [▶️ Watch](https://www.youtube.com/watch?v=hcaHBAlQIV0) |
+| 03 | **Transit** — Hunting for an exoplanet in Kepler data | [📓 Open](./episode-03-kepler22b/detect_kepler69c_transit_from_kepler.ipynb) | Kepler pipeline, BLS algorithm, period folding | NASA Kepler | [▶️ Watch](https://youtu.be/eEbg3Wqd5LY) |
 | 04 | **How Bright?** — Measuring stellar brightness from raw data | *Coming soon* | Photometry, magnitude scale, flux calibration | SDSS |
 | 05 | **The Dip** — Reading a light curve for the first time | *Coming soon* | Time series, lightkurve, stellar variability | NASA TESS |
 | 06 | **Transit** — Hunting for an exoplanet in Kepler data | *Coming soon* | Kepler pipeline, BLS algorithm, period folding | NASA Kepler |
