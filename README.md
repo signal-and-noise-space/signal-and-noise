@@ -47,12 +47,8 @@ The only thing that was ever missing — was someone willing to learn to listen.
 | 02 | **Three Filters** — Building a Pillars of Creation style image | *Coming soon* | Multi-band imaging, Hubble filters, false color | HST Archive |
 | 03 | **Transit** — Hunting for an exoplanet in Kepler data | [📓 Open](./episode-03-kepler22b/detect_kepler69c_transit_from_kepler.ipynb) | Kepler pipeline, BLS algorithm, period folding | NASA Kepler | [▶️ Watch](https://youtu.be/eEbg3Wqd5LY) |
 | 04 | **Anomaly** — Something Is Still Wrong With Betelgeuse. I Measured It. | [📓 Open](./episode-04-betelgeuse/detect_betelgeuse_dimming_from_aavso_data.ipynb)  | Target: Alpha Orionis (Betelgeuse) | AAVSO | [▶️ Watch](https://youtu.be/uRcA5m_p_8Y) |
-| 05 | **The Dip** — Reading a light curve for the first time | *Coming soon* | Time series, lightkurve, stellar variability | NASA TESS |
-| 06 | **Transit** — Hunting for an exoplanet in Kepler data | *Coming soon* | Kepler pipeline, BLS algorithm, period folding | NASA Kepler |
-| 07 | **Wrong** — My exoplanet detector was completely broken | *Coming soon* | Debugging, overfitting, scientific skepticism | NASA Kepler |
-| 08 | **Found** — I detected a planet outside our solar system | *Coming soon* | Confirmed transit, validation, uncertainty | NASA Kepler |
-| 09 | **Pattern Recognition** — Teaching a machine to classify galaxies | *Coming soon* | scikit-learn, Galaxy Zoo data, ML basics | Galaxy Zoo |
-| 10 | **Anomaly** — Looking for things that don't fit any known category | *Coming soon* | Anomaly detection, isolation forest, follow-up | SDSS |
+| 05 | **Bubble** — The Universe Is a Bubble. I Measured How Big It Is. | [📓 Open](./episode-05-bubble/measure_the_bubble_from_planck_data.ipynb) | Observable universe radius, cosmic event horizon, CMB, HEALPix, healpy, Flat ΛCDM cosmology |ESA Planck 2018 |[▶️ Watch](https://youtu.be/x4ydayWTom4) |
+
 
 ---
 
